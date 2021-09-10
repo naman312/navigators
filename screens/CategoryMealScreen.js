@@ -13,4 +13,4 @@ const styles= StyleSheet.create({
         alignItems: 'center'
     }
 })
-export default CategoryMealScreen;
+export default CategoryMealScreen; 
